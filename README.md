@@ -1,4 +1,4 @@
-# IS436lab4
+# IS436 lab 4
 Design and develop a professional personal portfolio website using the Bootstrap framework. Your portfolio should showcase your skillset, resume, projects, and learning outcomes from IS 436 while applying strong UI/UX design principles.
 
 # Required Pages (minimum 4)
